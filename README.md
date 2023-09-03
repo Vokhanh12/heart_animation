@@ -1,17 +1,3 @@
-# heartforkhanhha
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# heart_animation
+<h2>#heart_animation</h2><br>
+![image](https://github.com/Vokhanh12/heart_animation/assets/36543564/63c0f0b2-1768-4943-aa32-eaacce8d13fd)
+![image](https://github.com/Vokhanh12/heart_animation/assets/36543564/cd4e4ca9-6a7f-435c-8c00-baf2194d9333)
